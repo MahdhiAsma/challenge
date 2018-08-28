@@ -1,0 +1,86 @@
+
+.header{
+    background: pink fixed ;
+    background: cover;
+}
+
+.main{
+    background: palevioletred fixed ;
+    background: cover;
+}
+
+body{
+
+margin: 20px;
+font: 50px;
+color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo > img {
+    margin: 5px;
+    padding: 5px;
+    height: 50px;
+}
+h1 ,h2{
+   color: aliceblue;
+    margin: 30px;
+
+}
+p{
+
+    background: beige;
+   
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    margin: 5px;
+    padding:30px;
+    width: 900px;
+    position: relative;
+    left: 250px;
+}
+.contenu{
+    background: beige;
+  
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    margin: 5px;
+    padding: 10px;
+    width: 900px;
+    position: relative;
+    left: 250px;
+}
+.hs1{
+    width: 350px;
+    position: relative;
+    left: 150px;
+
+
+}
+.quoi{
+    
+    background: url("pexels-photo-326424.jpeg")fixed ;
+    background: cover;
+}
+.contact{
+    position: relative;
+    left: 250px;
+    margin: 20px;
+    padding: 5px;
+}
+.title{
+    color: rgb(11, 35, 56);
+    font: 300px;
+    font-size: 30px;
+    position: relative;
+    left: 80px;
+    padding: 5px;
+}
+img:hover{
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+
+
+}
+p:hover{
+    border-radius: 50px;
+}
